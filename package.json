@@ -1,0 +1,13 @@
+{
+  "name": "clutter_clearer",
+  "version": "1.0.0",
+  "description": "Organises your current path files in a specific way based on their extension types.",
+  "main": "main.js",
+  "scripts": {
+    "start" : "node main.js"
+  },
+  "keywords": [],
+  "author": "Debmalya",
+  "license": "ISC",
+  "type": "module"
+}
